@@ -10,20 +10,21 @@
     </style>
 
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Customize your theme here. -->
-
-        <item name="colorPrimaryDark">#07112a</item>
-
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
         <item name="drawerArrowStyle">@style/DrawerIcon</item>
         <item name="android:listDivider">@android:color/transparent</item>
     </style>
+
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
     <style name="AppTheme.popUpOverlay" parent="ThemeOverlay.AppCompat.Light" />
-    <style name="TextViewStyle" parent="android:Widget.TextView">
 
+    <style name="TextViewStyle" parent="android:Widget.TextView">
         <item name="android:textSize">14sp</item>
         <item name="android:textColor">#fff</item>
     </style>
+
     <style name="DrawerIcon" parent="Widget.AppCompat.DrawerArrowToggle">
         <item name="color">#AE000000</item>
     </style>
@@ -35,7 +36,6 @@
             <enum name="Height" value="1" />
         </attr>
         <attr name="aspectRatio" format="float" />
-
         <attr name="cornerRadius" format="dimension" />
         <attr name="roundedCorners">
             <flag name="topLeft" value="1" />

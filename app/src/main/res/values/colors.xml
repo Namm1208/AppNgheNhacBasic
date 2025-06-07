@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="light_blue_600">#FF039BE5</color>
+    <!-- Màu xanh lá đậm mới -->
+    <color name="colorPrimary">#2E7D32</color> <!-- Toolbar, Drawer -->
+    <color name="colorPrimaryDark">#1B5E20</color> <!-- StatusBar -->
+    <color name="colorAccent">#66BB6A</color> <!-- Highlight -->
 
+    <!-- Các màu còn lại giữ nguyên -->
+    <color name="light_blue_600">#FF039BE5</color>
     <color name="light_blue_900">#FF01579B</color>
     <color name="light_blue_A200">#FF40C4FF</color>
     <color name="light_blue_A400">#6826A9</color>
-
     <color name="black_overlay">#667C7474</color>
     <color name="nen">#3C3831</color>
-    <color name="colorPrimary">#07112a</color>
-    <color name="colorPrimaryDark">#07112a</color>
-
-    <color name="colorAccent">#ff835f</color>
     <color name="texthint">#95746B</color>
     <color name="orange">#ff835f</color>
     <color name="lightblue">#111B34</color>
