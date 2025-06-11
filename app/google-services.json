@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "88878743720",
+    "firebase_url": "https://appnghenhac-4a5fe-default-rtdb.firebaseio.com",
+    "project_id": "appnghenhac-4a5fe",
+    "storage_bucket": "appnghenhac-4a5fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88878743720:android:4ad51d131d2f60fdc3029d",
+        "android_client_info": {
+          "package_name": "com.example.music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNJ2s3HYc3bo-9-q7dKU7e3t-owSSRx8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
